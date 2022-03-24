@@ -13,7 +13,7 @@ As a Web developer of 10 years, I’ll admit, even I had to look up the exact di
 
 Ok, so purists might want to debate whether a front-end-only React Website is technically Web 1.0 or Web 2.0, and whether or not some sites can include components of Web 1.0 AND of Web 2.0, but this article is meant to be about the Metaverse, so lets argue in the comments below (or in [VRChat][vrchat] if you want to do it in the Metaverse).
 
-Either way, the internet changed, and is changing, and has moved from purely a place for static information, to something we have the power to shape ourselves, and is now moving towards a space more similar to a video game that we can choose to ‘step into’ in a highly immersive way (or continue to interact with in our browsers). Who knows where it will end up: The Matrix?
+Either way, the internet changed, and is changing, and has moved from purely a place for static information, to something we have the power to shape ourselves, and is now moving towards a space more similar to a video game that we can **choose** to ‘step into’ in a highly immersive way (or continue to interact with in our browsers). Who knows where it will end up: The Matrix?
 
 ## Web 3.0 – It’s Complicated..
 
@@ -37,7 +37,7 @@ There has been considerable debate in the emerging tech space about whether or n
 
 We use the internet without understanding TCP/IP protocols, it will eventually be the same with the Metaverse. We could even use the term ‘Metaspaces’ to refer to separate places (e.g. Facebook’s Metaspace vs VRChat) which operate in ‘The Metaverse’; between which it may or may not be possible to share ‘Digitial Assets/Identities’: i.e. “Can my NFTs/Avatars be used in (or moved between) multiple Metaspaces?”
 
-In conclusion, Facebook/Meta could allow users to share THEIR Digital Assets/NFTs ONLY between THEIR Metaspaces, however, in a truly Decentralised Web, we each own, and move our stuff where we want ([cross chain interoperability][cross-chain] challenges noted), and it will be possible to share these Digital Assets outside of organisation-specific walled gardens. How it evolves, is ultimately up to us.
+In conclusion, Facebook/Meta could allow users to share **their** Digital Assets/NFTs **only** between **their** Metaspaces, however, in a truly Decentralised Web, we each own, and move our stuff where we want ([cross chain interoperability][cross-chain] challenges noted), and it will be possible to share these Digital Assets outside of organisation-specific walled gardens. How it evolves, is ultimately up to us.
 
 [sec-money]: https://sec.money
 [vrchat]: https://hello.vrchat.com/
