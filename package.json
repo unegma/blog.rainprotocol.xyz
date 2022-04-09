@@ -1,5 +1,5 @@
 {
-  "name": "unegma.xyz",
+  "name": "blog.rainprotocol.xyz",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,6 +8,6 @@
     "start": "## run this: `bundle exec jekyll serve`",
     "build": "bundle exec jekyll build",
     "start-watch": "## run this: `bundle exec jekyll serve --watch`",
-    "deploy": "npm run-script build; aws --profile unegma s3 sync --delete ./_site/ s3://unegma.xyz/"
+    "deploy": "npm run-script build; aws --profile unegma s3 sync --delete ./_site/ s3://blog.rainprotocol.xyz/"
   }
 }

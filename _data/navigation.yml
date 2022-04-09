@@ -2,8 +2,8 @@
 main:
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-   - title: "unegma.xyz"
-     url: https://unegma.xyz
+   - title: "blog.rainprotocol.xyz"
+     url: https://blog.rainprotocol.xyz
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
